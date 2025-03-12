@@ -1,8 +1,8 @@
 {
     "name": "Bgt-V2",
     "description": "ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜꜱɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴡɪᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟꜱ.",
-    "repository": "https://github.com/BikashHalderNew/Bgtplayer",
-    "logo": "https://graph.org/file/d4bc06ada79821eb01025.jpg",
+    "repository": "",
+    "logo": "",
     "keywords": [
     "python3",
     "telegram",
@@ -21,7 +21,7 @@
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "d7ed3ebb8f4323c37c5ffcac40e677d4",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN": {
@@ -31,17 +31,17 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com. Below MONGOdb only for Test Don't Use Otherwise Your Bot Hack By Any Hacker",
-        "value": "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority",
+        "value": "",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters",
-        "value": "🌟⃝🌸𓆩🇧𝗚𝗧🎸🇲𝗨𝗦𝗜𝗖🎸🇧𝗢𝗧𓆪💫⃟👑 ",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "1439222689",
+        "value": "",
         "required": true
       },
       "STRING_SESSION": {
@@ -56,7 +56,7 @@
       },
       "CHANNE_USERNAME": {
         "description": "Your CHANNEL USERNAME WITHOUT @ , add your bot and promote as an admin !",
-        "value": "BGTADS",
+        "value": "",
         "required": true
       },
       "CHANNEL_ID": {
